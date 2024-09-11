@@ -1,10 +1,10 @@
-package com.SaitoA.MinhasFinancas;
+package com.Saito.FinancasSaito;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MinhasFinancasApplicationTests {
+class FinancasSaitoApplicationTests {
 
 	@Test
 	void contextLoads() {

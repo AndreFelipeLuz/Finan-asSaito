@@ -1,13 +1,13 @@
-package com.SaitoA.MinhasFinancas;
+package com.Saito.FinancasSaito;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MinhasFinancasApplication {
+public class FinancasSaitoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MinhasFinancasApplication.class, args);
+		SpringApplication.run(FinancasSaitoApplication.class, args);
 	}
 
 }
